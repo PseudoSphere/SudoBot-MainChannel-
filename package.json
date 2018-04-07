@@ -1,0 +1,16 @@
+{
+  "name": "nodebot",
+  "version": "1.0.0",
+  "description": "a twitch bot in node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "tedious": "^2.0.0",
+    "tmi.js": "^1.2.0"
+  }
+}

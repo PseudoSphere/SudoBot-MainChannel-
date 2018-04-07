@@ -1,0 +1,22 @@
+add decks
+    my decks:
+    under construction:
+
+Commands to add:
+    redeem puzzle
+    redeem PogChamp (emotes)
+
+    some kind of bet where you bet points and earn potential points. 
+        (added at the beginning of the hour?)
+    
+
+(From notepad)
+What to do with points?!?
+-List "Top 10 Points" and "Top 10 Growers"
+-Emote Mode
+-On screen effects?
+-Create puzzle for chat - give bonus pp to the person who solves it first? (except I want it to be a group effort)
+
+Requires Mic
+-REDEEM ACCENT FOR X TIME (Apex, link mimic video)
+-Accapellaphone (Make a vocal track over a music track(maybe 2), then mute the music track and make a few more layers)
